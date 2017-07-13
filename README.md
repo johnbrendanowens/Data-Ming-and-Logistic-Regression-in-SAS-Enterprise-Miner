@@ -1,7 +1,7 @@
 # Data-Ming-in-SAS-Enterprise-Miner
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/johnbrendanowens/Data-Mining-In-SAS-Enterprise-Miner/Data-Mining-Diagram/path/to/img.png)
 
 Above is a data mining project that I preformed in the Spring of 2017 for the graduate course, Data Mining for Business Intelligence. The project involved data mining a large data set of a store’s purchase information. I sought to create several predictive models for if a purchase resulted in an amount greater than the average purchase. 
 
