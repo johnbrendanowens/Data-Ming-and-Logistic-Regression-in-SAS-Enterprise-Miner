@@ -1,4 +1,4 @@
-# Data-Ming-in-SAS-Enterprise-Miner
+# Data-Ming-and-Logistic-Regression-in-SAS-Enterprise-Miner
 
 
 ![Screenshot](Data%20Mining%20Diagram.png)
